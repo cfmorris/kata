@@ -26,6 +26,9 @@ def generate_diagonal(n, l):
             diagnol=nextdiag    
     return nextdiag[0:l]
 
+
+# Testing code below
+
 print(generate_diagonal(0,10))
 print(generate_diagonal(1,10))
 print(generate_diagonal(7,10))
