@@ -7,4 +7,3 @@ A repository for code challenges that were particularly interesting.
   - https://en.wikipedia.org/wiki/Pascal%27s_triangle
 - Sort Binary Trees by Level: Map and return nodes, top to bottom and left to right.
   - https://www.codewars.com/kata/52bef5e3588c56132c0003bc/
-
